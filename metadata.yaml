@@ -1,0 +1,25 @@
+_repo: Babylonian-and-Assyrian-Literature_10887
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assyro-Babylonian literature -- Translations into English'
+- !lcc 'PJ'
+- GITenberg
+tableOfContents: The Epic of Ishtar and Izdubar -- Tablets and Cuneiform Inscriptions.
+title: Babylonian and Assyrian Literature
+url: http://www.gutenberg.org/ebooks/10887
